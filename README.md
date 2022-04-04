@@ -1,6 +1,6 @@
 ### autotf
 
-`autotf` is a demo `tool` created as POC for [Blog](). Please read the blog for more context
+`autotf` is a demo `tool` created as POC for [Blog](https://medium.com/@email2sroy/terraform-solve-dynamic-backend-problem-with-golang-85d381bc48b5). Please read the blog for more context
 
 #### `Init` and `Plan`
 ```bash
